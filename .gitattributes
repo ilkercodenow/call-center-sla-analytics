@@ -1,1 +1,1 @@
-*.sql linguist-detectable=true
+scripts/*.py linguist-generated=true
