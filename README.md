@@ -1,4 +1,4 @@
-# Call Center Operations & SLA Performance Analytics
+# Call Center Operations and SLA Performance Analytics
 
 A data analytics project built to practice working with a full pipeline, from raw data all the way to a finished dashboard. I used a mock call center dataset of 5,000 calls and tried to understand how the call center is really performing. How many calls get abandoned, how fast calls get answered, which topics struggle with their SLA targets, and how individual agents compare.
 
