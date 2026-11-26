@@ -19,7 +19,7 @@ I built this project around four simple questions.
 
 ## Tools and Data Structure
 
-I used Python (pandas) to clean the raw data and turn it into a simple star schema. Then I used SQL to check my numbers and explore the data further. After that I built a KPI summary in Excel with live formulas, and finally put everything together in an interactive Power BI dashboard.
+I used Claude to write the Python (pandas) scripts that clean the raw data, build the star schema, and generate the KPI summary workbook, based on a specification I gave it. Then I used SQL to check my numbers and explore the data further. After that I built a KPI summary in Excel with live formulas, and finally put everything together in an interactive Power BI dashboard.
 
 **Data model**
 * `fact_calls` (5,000 rows). One row per call, with the hour and day of the call, whether it was answered, how long the customer waited, how long the call lasted, whether it was resolved on the first try, and the CSAT score.
